@@ -1,0 +1,4 @@
+- 内核代码
+	- https://github.com/ultraji/linux-0.12 基于0.12内核源代码的注释，提供docker环境
+		- ![Linux 内核完全剖析——基于0.12内核.pdf](../assets/Linux_内核完全剖析——基于0.12内核_1699112147709_0.pdf) 配套书籍，906页
+		-
