@@ -4,4 +4,5 @@
 		-
 - 内核fuzz
 	- https://github.com/hardik05/Damn_Vulnerable_Kernel_Module 入门的机会
--
+- rootkit
+	- https://h0mbre.github.io/Learn-C-By-Creating-A-Rootkit/# 入门向rootkit
