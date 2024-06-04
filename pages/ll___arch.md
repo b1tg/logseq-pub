@@ -1,0 +1,3 @@
+- https://courses.cs.washington.edu/courses/cse469/ 设计arm cpu
+	- https://github.com/geohot/fromthetransistor#section-2-bringup-what-language-is-hardware-coded-in----05-weeks
+- https://github.com/ankushbhardwxj/PyARM-Assembler Assembler for ARM7 written in Python

@@ -1,0 +1,4 @@
+- people implements
+	- https://github.com/chobits/tinyos a tiny monolithic kernel (ali)
+		- from: https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+	-
